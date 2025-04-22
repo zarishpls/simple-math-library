@@ -5,3 +5,4 @@ print("3*4 = ", mul(3,4))
 print("6/2 = ", div(6,2))
 
 print("hello")
+print("zarish")
