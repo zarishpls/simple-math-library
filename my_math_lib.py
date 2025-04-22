@@ -5,3 +5,6 @@ def add(a, b):
 def subtract(a, b):
     """Subtract b from a and return the result."""
     return a - b
+    
+def mul(a,b):
+    return a*b
